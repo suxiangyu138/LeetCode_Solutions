@@ -1,3 +1,5 @@
+package LeetCode算法题;
+
 public class DecodeWays {
     // 核心Solution逻辑（和上面一致）
     public static class Solution {
